@@ -14,45 +14,45 @@ This helps job seekers, HR teams, and startup founders understand the job market
 
 ## Key Business Questions (KPIs)
 
-What is the total number of job views, postings, and applications?
-What percentage of jobs are remote?
-Which experience level has the highest job postings and salaries?
-What are the top hiring locations?
-Which work type (full-time, contract, part-time) dominates?
-Which industries demand more skills?
-What are the most common job titles and categories?
-Which experience level is most in-demand?
+- What is the total number of job views, postings, and applications?
+- What percentage of jobs are remote?
+- Which experience level has the highest job postings and salaries?
+- What are the top hiring locations?
+- Which work type (full-time, contract, part-time) dominates?
+- Which industries demand more skills?
+- What are the most common job titles and categories?
+- Which experience level is most in-demand?
 
 
 ## Process Followed
 
- Cleaned all CSV/Excel files in **Microsoft Excel**
- Loaded and explored data using **SQL**
- Created relationships, pivot tables, and calculated fields
- Built dynamic interactive dashboard in **Power BI**
- Added filters like `Location`, `Experience Level`, and `Work Type`
+ - Cleaned all CSV/Excel files in **Microsoft Excel**
+ - Loaded and explored data using **SQL**
+ - Created relationships, pivot tables, and calculated fields
+ - Built dynamic interactive dashboard in **Power BI**
+ - Added filters like `Location`, `Experience Level`, and `Work Type`
 
 
 ## Dashboard View
 
-
+- Dashboard Interaction <a href="https://github.com/FarookBashaD12/LinkedIn-Job-Posting-Analysis/blob/main/Screenshot%202025-06-29%20231349.png">View Dashboard</a>
 
 ## Insights & Observations
 
-**Mid-Senior level** and **Entry-level** roles dominate the platform
-1.79 million total views and over 247K job applications
-Most jobs are **full-time** (nearly 80%)
-**Remote jobs** are only ~12%
-Top hiring happens in cities like **Yuma, AZ** and **Yukon, OK**
-Top industries: IT, Sales, Management, and Finance
-Top skills include **Python**, **Data Analysis**, and **Cloud platforms**
+- **Mid-Senior level** and **Entry-level** roles dominate the platform
+- 1.79 million total views and over 247K job applications
+- Most jobs are **full-time** (nearly 80%)
+- **Remote jobs** are only ~12%
+- Top hiring happens in cities like **Yuma, AZ** and **Yukon, OK**
+- Top industries: IT, Sales, Management, and Finance
+- Top skills include **Python**, **Data Analysis**, and **Cloud platforms**
 
 
 Tools Used
 
-**Microsoft Excel** → data cleaning & formatting  
-**MySQL** → exploratory data analysis  
-**Power BI** → dashboard creation  
+- **Microsoft Excel** → data cleaning & formatting  
+- **MySQL** → exploratory data analysis  
+- **Power BI** → dashboard creation  
 
 ## Final Conclusion
 
