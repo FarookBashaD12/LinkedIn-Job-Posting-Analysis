@@ -6,8 +6,11 @@ This helps job seekers, HR teams, and startup founders understand the job market
 
 
 ## Dataset Used
+- <a href="https://github.com/FarookBashaD12/LinkedIn-Job-Posting-Analysis/blob/main/Linkedin_Job_Industries%20.csv">LinkedIn Job Posting Industries</a>
 
+- <a href="https://github.com/FarookBashaD12/LinkedIn-Job-Posting-Analysis/blob/main/Linkedin_Job_Posting.xlsx">LinkedIn Job Posting</a>
 
+- <a href="https://github.com/FarookBashaD12/LinkedIn-Job-Posting-Analysis/blob/main/Linkedin_Job_Skills.csv">LinkedIn Job Skills</a>
 
 ## Key Business Questions (KPIs)
 
